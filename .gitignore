@@ -1,0 +1,17 @@
+backend/venv/
+backend/uploads/
+frontend/node_modules/
+frontend/dist/
+.env
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+Thumbs.db
+# Actual frontend project dependencies
+frontend-app/node_modules/
+frontend-app/frontend-app/node_modules/
+
+# Frontend build output
+frontend-app/dist/
+frontend-app/frontend-app/dist/
